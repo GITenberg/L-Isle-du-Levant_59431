@@ -1,0 +1,24 @@
+_repo: L-Isle-du-Levant_59431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otlet, Paul
+    gutenberg_agent_id: '50172'
+    url: http://www.gutenberg.org/2009/agents/50172
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Voyages et pays
+- FR Sciences et Techniques
+gutenberg_issued: '2019-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59431'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Isle du Levant
+url: http://www.gutenberg.org/ebooks/59431
